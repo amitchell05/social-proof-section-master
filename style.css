@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family: 'Spartan', sans-serif;
+	font-size: 15px;
+	color: hsl(300, 43%, 22%);
+}
+
+header {
+	text-align: center;
+}
+
+header p {
+	color: hsl(303, 10%, 53%);
+}
+
+h4 {
+	font-weight: 400;
+	color: hsl(333, 80%, 67%);
+}
+
+.center {
+	text-align: center;
+}
+
+.rating {
+	background-color: hsl(300, 24%, 96%);
+}
+
+.review {
+	background-color: hsl(300, 43%, 22%);
+	color: hsl(0, 0%, 100%);
+}
+
+.review img {
+	border-radius: 100%;
+}
